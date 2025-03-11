@@ -1,0 +1,9 @@
+com/hightest/pages/YopmailPage.class
+com/hightest/pages/ResultPage.class
+com/hightest/utils/WaitUtils.class
+com/hightest/pages/ToolboxPage.class
+com/hightest/pages/HomePage.class
+com/hightest/config/BrowserConfig.class
+com/hightest/constants/TestConstants.class
+com/hightest/utils/EmailUtils.class
+com/hightest/pages/QuizPage.class

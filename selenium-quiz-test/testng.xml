@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Quiz Test Suite">
+    <test name="Quiz Email Verification Test">
+        <classes>
+            <class name="com.hightest.tests.QuizTest"/>
+        </classes>
+    </test>
+</suite>

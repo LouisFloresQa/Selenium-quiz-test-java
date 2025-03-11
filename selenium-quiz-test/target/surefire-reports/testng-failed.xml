@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Quiz Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Quiz Email Verification Test(failed)" verbose="0">
+    <classes>
+      <class name="com.hightest.tests.QuizTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testQuizEmailVerification"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.hightest.tests.QuizTest -->
+    </classes>
+  </test> <!-- Quiz Email Verification Test(failed) -->
+</suite> <!-- Failed suite [Quiz Test Suite] -->
